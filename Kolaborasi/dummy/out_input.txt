@@ -1,0 +1,5 @@
+2 //a//
+1 //g pesanan ke 1//
+2 //y banyak pesan 1//
+2 //g pesanan ke 2//
+1 //y pesanan ke 2//
